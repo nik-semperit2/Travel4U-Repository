@@ -1,7 +1,0 @@
-public class Hotel4U {
-    public static void main(String[] args) {
-        System.out.println("sout");
-
-        testing 123 fork
-    }
-}           
